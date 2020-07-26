@@ -1,19 +1,16 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="THAI TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/3hd.png",CH 33 HD (adi)
 https://u12.cdn.vet/live/ch3/i/ch3i.m3u8?sid=bjeMzMxYWQwNWQzNzA3OWM1MjM4YQNjkyYjY2NTQ2YzljNzcw
 #EXTINF:-1 group-title="THAI TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/channel5.png",TV5 (adi)
 https://u12.cdn.vet/live/ch5/i/ch5i.m3u8?sid=bjeYTg5OGJhMjhiM2YxMDNjYmQzNwMzhiMzcwYmM1MTA0ZDE4
 #EXTINF:-1 group-title="THAI TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/mcothd.png",MCOT30 (CH9) (adi)
 https://u12.cdn.vet/live/ch9/i/ch9i.m3u8?sid=bjeMjFlYTYzYmVkNDhiMmRjOWI4YgMTg5MzcxZWNiMjE0Mjc4
-
 #EXTINF:-1 group-title="THAI TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/nbt.png",NBT 2HD (CH11) (adi)
 https://u12.cdn.vet/live/ch11/i/ch11i.m3u8?sid=bjeZTA0YjU5YmU2Y2Q0OWFiNzg2YwMTA5OGJkNjMyY2JiNGZi
 #EXTINF:-1 group-title="THAI TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/nation.png",NATION 22 (adi)
 https://u12.cdn.vet/live/ch37/i/ch37i.m3u8?sid=bjeNWFkMTkzMmE4NGM4YTVkMjRiMQM2E2NzdjOGY4NjRiMjA5
 #EXTINF:-1 group-title="THAI TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/thaipbs.png",THAI PBS (adi)
 https://u12.cdn.vet/live/ch1/i/ch1i.m3u8?sid=bjeMjJmY2UwMTY2MThmNTM0OWY2MwODkwMWEyMmYzMjBmZDZj
-
 #EXTINF:-1 group-title="THAI TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/thairathtv.png",Thairath 32 (adi)
 https://u12.cdn.vet/live/ch39/i/ch39i.m3u8?sid=bjeZjk3YjNkMDcyNGQwNGE3Y2U5YwMzg0YzdlMzhjMTExZjEz
 #EXTINF:-1 group-title="THAI TV"tvg-logo="https://www.tvjaa.com/storage/tv-channels/pptvhd.png",PPTV 36 (adi)
